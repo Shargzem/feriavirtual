@@ -1,0 +1,91 @@
+﻿@model VentasWeb.Models.EmailModel
+
+@{
+    ViewBag.Title = "SendEmail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-sm-8" >
+        <div class="card text-center">
+            <div class="card-header bg-info text-white">
+                Enviar Correo
+            </div>
+            <div class="card-body align-self-md-center">
+
+                <hr />
+                <div class="row mt-3">
+                    @using (Html.BeginForm("SendEmail", "Email", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        <table  class="table table-striped table-bordered nowrap compact" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <td>
+                                        Para:
+                                    </td>
+                                    <td>
+                                        @Html.TextBoxFor(model => model.To, new { @class = "form-control" })
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Asunto:
+                                    </td>
+                                    <td>
+                                        @Html.TextBoxFor(model => model.Subjet, new { @class = "form-control" })
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top">
+                                        Body:
+                                    </td>
+                                    <td >
+                                        @Html.TextBoxFor(model => model.Body, new { @class = "form-control col-12" })
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Archivo adjunto:
+                                    </td>
+                                    <td>
+                                        @Html.TextBoxFor(model => model.Attachment, new { type = "file" })
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Gmail Correo:
+                                    </td>
+                                    <td>
+                                        @Html.TextBoxFor(model => model.Email)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Gmail Contraseña:
+                                    </td>
+                                    <td>
+                                        @Html.TextBoxFor(model => model.Password, new { type = "password" })
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <input type="submit"  value="Enviar Correo"/> 
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                        <br />
+
+                        <span style="color:green" > @ViewBag.Message </span>
+                    }
+
+                </div>
+            </div>
+            <div class="card-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
