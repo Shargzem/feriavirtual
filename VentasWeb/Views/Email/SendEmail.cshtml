@@ -12,8 +12,6 @@
                 Enviar Correo
             </div>
             <div class="card-body align-self-md-center">
-
-                <hr />
                 <div class="row mt-3">
                     @using (Html.BeginForm("SendEmail", "Email", FormMethod.Post, new { enctype = "multipart/form-data" }))
                     {
@@ -24,7 +22,7 @@
                                         Para:
                                     </td>
                                     <td>
-                                        @Html.TextBoxFor(model => model.To, new { @class = "form-control" })
+                                        @Html.TextBoxFor(model => model.To, new { @class = "form-control" , @placeholder = "ejemplo@ejemplo.com"})
                                     </td>
                                 </tr>
                                 <tr>
@@ -40,7 +38,7 @@
                                         Body:
                                     </td>
                                     <td >
-                                        @Html.TextBoxFor(model => model.Body, new { @class = "form-control col-12" })
+                                        @Html.TextAreaFor(model => model.Body, new { @class = "form-control" })
                                     </td>
                                 </tr>
                                 <tr>
