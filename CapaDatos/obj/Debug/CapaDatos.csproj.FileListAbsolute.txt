@@ -1,0 +1,18 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.dll
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.dll
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.dll
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaDatos\obj\Debug\CapaDatos.pdb
