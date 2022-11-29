@@ -9,3 +9,4 @@ J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\Capa
 J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
 J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+J:\RepositoriosGIT\PRUEBAS\PROYECTO VENTAS WEB\022_VENTAS_WEB_MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
