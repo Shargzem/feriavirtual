@@ -2020,7 +2020,9 @@
     <Content Include="Scripts\Views\Rol_Crear.js" />
     <Content Include="Scripts\Views\Venta_Consultar.js" />
     <Content Include="Scripts\Views\Venta_Crear.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
